@@ -8,6 +8,8 @@ This is the standalone version — it saves data to a real shared database
 (Firebase Firestore, free tier) instead of Claude's built-in storage, so it
 can be hosted on GitHub Pages and used by your whole faculty from any device.
 
+web: https://bharatiop.github.io/copo/
+
 ---
 
 ## 1. Create a free Firebase project (5 minutes)
