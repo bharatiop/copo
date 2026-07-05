@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // set base to "/" instead.
 export default defineConfig({
   plugins: [react()],
-  base: "/your-repo-name/",
+  base: "/copo/",
 });
